@@ -1,10 +1,8 @@
-node-red-contrib-oled example
-=============================
+# node-red-contrib-oled example
 
 Node-Red node to talk to OLED displays, connected by i2c.
 
-## An exaple to view a clock in the display
-
+## An example to view a clock in the display
 
 If it is not installed node-red-contrib-oled
 ```
